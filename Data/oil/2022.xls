@@ -1,0 +1,546 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="all" border="1" id="ctl00_cph_InnerContainerRight_C004_rgHDetailsDate_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Instrument Type</th><th scope="col">Date</th><th scope="col">Segment</th><th scope="col">Commodity</th><th scope="col">Traded Contract(Lots)</th><th scope="col">Total Value (Lacs)</th><th scope="col">Avg Daily Turnover (Lacs)</th><th scope="col">Premium Value (Lacs)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>FUTCOM</td><td>03 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">73161</td><td style="mso-number-format:0\.00;">411724.99</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64716</td><td style="mso-number-format:0\.00;">370569.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">69216</td><td style="mso-number-format:0\.00;">399838.89</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">91898</td><td style="mso-number-format:0\.00;">539195.37</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">69691</td><td style="mso-number-format:0\.00;">411887.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">83768</td><td style="mso-number-format:0\.00;">487796.43</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">89652</td><td style="mso-number-format:0\.00;">529165.85</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65980</td><td style="mso-number-format:0\.00;">399212.57</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46559</td><td style="mso-number-format:0\.00;">283117.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64059</td><td style="mso-number-format:0\.00;">392467.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">34963</td><td style="mso-number-format:0\.00;">217548.33</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46319</td><td style="mso-number-format:0\.00;">292654.79</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">55541</td><td style="mso-number-format:0\.00;">355838.76</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">47216</td><td style="mso-number-format:0\.00;">301947.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65724</td><td style="mso-number-format:0\.00;">413515.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">67872</td><td style="mso-number-format:0\.00;">425192.85</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">60752</td><td style="mso-number-format:0\.00;">382348.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">59820</td><td style="mso-number-format:0\.00;">393076.02</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">60338</td><td style="mso-number-format:0\.00;">396950.82</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jan 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42438</td><td style="mso-number-format:0\.00;">277006.50</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">57760</td><td style="mso-number-format:0\.00;">379395.47</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">68273</td><td style="mso-number-format:0\.00;">451065.60</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54271</td><td style="mso-number-format:0\.00;">356593.41</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63591</td><td style="mso-number-format:0\.00;">435724.47</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">53312</td><td style="mso-number-format:0\.00;">364094.43</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">80817</td><td style="mso-number-format:0\.00;">541775.43</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">71344</td><td style="mso-number-format:0\.00;">476664.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">80802</td><td style="mso-number-format:0\.00;">547608.84</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">60286</td><td style="mso-number-format:0\.00;">411551.71</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">73255</td><td style="mso-number-format:0\.00;">514454.11</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">86439</td><td style="mso-number-format:0\.00;">598116.20</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54428</td><td style="mso-number-format:0\.00;">378978.14</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">86236</td><td style="mso-number-format:0\.00;">587934.37</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">77160</td><td style="mso-number-format:0\.00;">514922.64</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">56111</td><td style="mso-number-format:0\.00;">379668.39</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">82865</td><td style="mso-number-format:0\.00;">577424.96</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">70269</td><td style="mso-number-format:0\.00;">483590.09</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">153737</td><td style="mso-number-format:0\.00;">1133440.28</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">141221</td><td style="mso-number-format:0\.00;">984632.81</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Feb 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">125938</td><td style="mso-number-format:0\.00;">911901.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">130659</td><td style="mso-number-format:0\.00;">1011482.98</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">159341</td><td style="mso-number-format:0\.00;">1311444.71</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">158878</td><td style="mso-number-format:0\.00;">1348317.15</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">123022</td><td style="mso-number-format:0\.00;">1038977.66</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">174148</td><td style="mso-number-format:0\.00;">1618075.81</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">145988</td><td style="mso-number-format:0\.00;">1391772.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">185120</td><td style="mso-number-format:0\.00;">1686084.89</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">195664</td><td style="mso-number-format:0\.00;">1653383.01</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">130305</td><td style="mso-number-format:0\.00;">1071867.86</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">108616</td><td style="mso-number-format:0\.00;">857271.29</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">138939</td><td style="mso-number-format:0\.00;">1022407.32</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">121454</td><td style="mso-number-format:0\.00;">894025.52</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">75954</td><td style="mso-number-format:0\.00;">575574.56</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">39619</td><td style="mso-number-format:0\.00;">310435.21</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">69166</td><td style="mso-number-format:0\.00;">570414.07</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">78137</td><td style="mso-number-format:0\.00;">654216.74</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63116</td><td style="mso-number-format:0\.00;">543235.61</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">67328</td><td style="mso-number-format:0\.00;">585363.84</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">83949</td><td style="mso-number-format:0\.00;">712934.59</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">83464</td><td style="mso-number-format:0\.00;">683650.91</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">136480</td><td style="mso-number-format:0\.00;">1072566.76</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65063</td><td style="mso-number-format:0\.00;">527396.99</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Mar 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">101899</td><td style="mso-number-format:0\.00;">791972.72</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">81808</td><td style="mso-number-format:0\.00;">619796.12</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">85105</td><td style="mso-number-format:0\.00;">652035.36</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">82442</td><td style="mso-number-format:0\.00;">646140.91</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">94577</td><td style="mso-number-format:0\.00;">723771.12</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">91129</td><td style="mso-number-format:0\.00;">669627.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">75415</td><td style="mso-number-format:0\.00;">553728.25</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">76872</td><td style="mso-number-format:0\.00;">554683.70</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">83173</td><td style="mso-number-format:0\.00;">622825.72</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">67594</td><td style="mso-number-format:0\.00;">524857.51</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">32972</td><td style="mso-number-format:0\.00;">260629.86</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">44461</td><td style="mso-number-format:0\.00;">364701.98</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">55337</td><td style="mso-number-format:0\.00;">443517.61</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54605</td><td style="mso-number-format:0\.00;">428009.30</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">55696</td><td style="mso-number-format:0\.00;">440929.81</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">52758</td><td style="mso-number-format:0\.00;">413539.89</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">68989</td><td style="mso-number-format:0\.00;">515271.96</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">86056</td><td style="mso-number-format:0\.00;">660845.69</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">62722</td><td style="mso-number-format:0\.00;">487580.48</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">61229</td><td style="mso-number-format:0\.00;">482038.37</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Apr 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54057</td><td style="mso-number-format:0\.00;">440530.81</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">69057</td><td style="mso-number-format:0\.00;">543009.30</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">36084</td><td style="mso-number-format:0\.00;">287079.10</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">53013</td><td style="mso-number-format:0\.00;">429977.56</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">58400</td><td style="mso-number-format:0\.00;">484320.95</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">60072</td><td style="mso-number-format:0\.00;">506970.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65804</td><td style="mso-number-format:0\.00;">541815.29</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">84857</td><td style="mso-number-format:0\.00;">667019.78</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">78053</td><td style="mso-number-format:0\.00;">626659.95</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65369</td><td style="mso-number-format:0\.00;">530445.72</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">52886</td><td style="mso-number-format:0\.00;">443090.34</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">58815</td><td style="mso-number-format:0\.00;">503926.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">52092</td><td style="mso-number-format:0\.00;">457194.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">68451</td><td style="mso-number-format:0\.00;">587329.82</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">75223</td><td style="mso-number-format:0\.00;">622656.54</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">51525</td><td style="mso-number-format:0\.00;">439896.43</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46049</td><td style="mso-number-format:0\.00;">395212.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">47887</td><td style="mso-number-format:0\.00;">408951.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">39940</td><td style="mso-number-format:0\.00;">342546.73</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">39269</td><td style="mso-number-format:0\.00;">343681.20</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42871</td><td style="mso-number-format:0\.00;">379266.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">27191</td><td style="mso-number-format:0\.00;">244577.59</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 May 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">59716</td><td style="mso-number-format:0\.00;">546865.41</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">55494</td><td style="mso-number-format:0\.00;">500051.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">85640</td><td style="mso-number-format:0\.00;">759750.61</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49559</td><td style="mso-number-format:0\.00;">451608.34</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">40624</td><td style="mso-number-format:0\.00;">374838.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">51918</td><td style="mso-number-format:0\.00;">478769.07</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">53374</td><td style="mso-number-format:0\.00;">500281.77</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">38338</td><td style="mso-number-format:0\.00;">362284.11</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">62402</td><td style="mso-number-format:0\.00;">585914.10</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">58745</td><td style="mso-number-format:0\.00;">545610.87</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">44250</td><td style="mso-number-format:0\.00;">417982.21</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">47037</td><td style="mso-number-format:0\.00;">429393.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">48852</td><td style="mso-number-format:0\.00;">433069.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54573</td><td style="mso-number-format:0\.00;">476515.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">31328</td><td style="mso-number-format:0\.00;">264552.45</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">33888</td><td style="mso-number-format:0\.00;">291502.25</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">60599</td><td style="mso-number-format:0\.00;">495317.53</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">52651</td><td style="mso-number-format:0\.00;">433074.17</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">44213</td><td style="mso-number-format:0\.00;">367884.08</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">38142</td><td style="mso-number-format:0\.00;">323853.24</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">37823</td><td style="mso-number-format:0\.00;">330948.17</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">35875</td><td style="mso-number-format:0\.00;">317736.38</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jun 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49287</td><td style="mso-number-format:0\.00;">419790.78</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">35807</td><td style="mso-number-format:0\.00;">303599.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">25701</td><td style="mso-number-format:0\.00;">221663.99</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">68658</td><td style="mso-number-format:0\.00;">562906.94</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">72549</td><td style="mso-number-format:0\.00;">564062.88</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54006</td><td style="mso-number-format:0\.00;">433452.80</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">47897</td><td style="mso-number-format:0\.00;">392338.71</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49950</td><td style="mso-number-format:0\.00;">407354.17</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63381</td><td style="mso-number-format:0\.00;">497198.51</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">62268</td><td style="mso-number-format:0\.00;">475837.81</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">70779</td><td style="mso-number-format:0\.00;">528249.47</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">56320</td><td style="mso-number-format:0\.00;">433125.24</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42325</td><td style="mso-number-format:0\.00;">333203.58</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42855</td><td style="mso-number-format:0\.00;">339706.68</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">38761</td><td style="mso-number-format:0\.00;">308645.85</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">51439</td><td style="mso-number-format:0\.00;">397296.17</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">47507</td><td style="mso-number-format:0\.00;">365421.50</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">38147</td><td style="mso-number-format:0\.00;">290704.58</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">33394</td><td style="mso-number-format:0\.00;">259311.86</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">40811</td><td style="mso-number-format:0\.00;">313989.98</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42653</td><td style="mso-number-format:0\.00;">333438.68</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jul 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">48453</td><td style="mso-number-format:0\.00;">382129.21</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">57023</td><td style="mso-number-format:0\.00;">429371.06</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">53054</td><td style="mso-number-format:0\.00;">393495.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">62404</td><td style="mso-number-format:0\.00;">462689.50</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54056</td><td style="mso-number-format:0\.00;">386497.69</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">48763</td><td style="mso-number-format:0\.00;">345311.02</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46712</td><td style="mso-number-format:0\.00;">331907.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">32506</td><td style="mso-number-format:0\.00;">236121.64</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64578</td><td style="mso-number-format:0\.00;">460888.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49892</td><td style="mso-number-format:0\.00;">369180.78</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">45963</td><td style="mso-number-format:0\.00;">340000.20</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">70931</td><td style="mso-number-format:0\.00;">498985.96</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">56208</td><td style="mso-number-format:0\.00;">389988.69</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">38632</td><td style="mso-number-format:0\.00;">275468.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">38341</td><td style="mso-number-format:0\.00;">275878.72</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">52944</td><td style="mso-number-format:0\.00;">376681.08</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">41989</td><td style="mso-number-format:0\.00;">310938.33</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">48933</td><td style="mso-number-format:0\.00;">367992.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42074</td><td style="mso-number-format:0\.00;">318221.87</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">43889</td><td style="mso-number-format:0\.00;">325110.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">48744</td><td style="mso-number-format:0\.00;">370338.11</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63781</td><td style="mso-number-format:0\.00;">477179.46</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Aug 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">36587</td><td style="mso-number-format:0\.00;">263215.94</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">55413</td><td style="mso-number-format:0\.00;">388303.48</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">50221</td><td style="mso-number-format:0\.00;">355164.45</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">40694</td><td style="mso-number-format:0\.00;">291067.81</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">56342</td><td style="mso-number-format:0\.00;">393946.85</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">62770</td><td style="mso-number-format:0\.00;">426299.02</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54951</td><td style="mso-number-format:0\.00;">364634.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">50869</td><td style="mso-number-format:0\.00;">347411.79</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">56063</td><td style="mso-number-format:0\.00;">391449.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">86450</td><td style="mso-number-format:0\.00;">600824.98</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">80070</td><td style="mso-number-format:0\.00;">561452.48</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">59123</td><td style="mso-number-format:0\.00;">408640.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">36660</td><td style="mso-number-format:0\.00;">250125.51</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42281</td><td style="mso-number-format:0\.00;">283269.17</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">43709</td><td style="mso-number-format:0\.00;">295779.46</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">53814</td><td style="mso-number-format:0\.00;">365917.60</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">58397</td><td style="mso-number-format:0\.00;">398542.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">57331</td><td style="mso-number-format:0\.00;">375286.43</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">50605</td><td style="mso-number-format:0\.00;">325359.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46289</td><td style="mso-number-format:0\.00;">297216.60</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">53174</td><td style="mso-number-format:0\.00;">347653.22</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">50019</td><td style="mso-number-format:0\.00;">336314.45</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Sep 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">52596</td><td style="mso-number-format:0\.00;">347352.06</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54919</td><td style="mso-number-format:0\.00;">373106.83</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">43723</td><td style="mso-number-format:0\.00;">304660.62</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">40948</td><td style="mso-number-format:0\.00;">291343.27</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">36436</td><td style="mso-number-format:0\.00;">263062.30</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">50608</td><td style="mso-number-format:0\.00;">377312.72</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">34756</td><td style="mso-number-format:0\.00;">264061.63</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">45081</td><td style="mso-number-format:0\.00;">331962.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">43939</td><td style="mso-number-format:0\.00;">319050.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">45712</td><td style="mso-number-format:0\.00;">329818.93</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">50327</td><td style="mso-number-format:0\.00;">360830.65</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">41484</td><td style="mso-number-format:0\.00;">293027.20</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42530</td><td style="mso-number-format:0\.00;">294055.27</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">40535</td><td style="mso-number-format:0\.00;">280562.01</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">34474</td><td style="mso-number-format:0\.00;">245512.51</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">32884</td><td style="mso-number-format:0\.00;">231081.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">4491</td><td style="mso-number-format:0\.00;">31359.32</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">29875</td><td style="mso-number-format:0\.00;">209687.52</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">24515</td><td style="mso-number-format:0\.00;">175971.08</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">33500</td><td style="mso-number-format:0\.00;">245092.30</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">28947</td><td style="mso-number-format:0\.00;">210074.29</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Oct 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">44589</td><td style="mso-number-format:0\.00;">320265.01</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42185</td><td style="mso-number-format:0\.00;">307750.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">37631</td><td style="mso-number-format:0\.00;">277516.26</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">30143</td><td style="mso-number-format:0\.00;">221463.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">47185</td><td style="mso-number-format:0\.00;">353725.13</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">32599</td><td style="mso-number-format:0\.00;">246655.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">31702</td><td style="mso-number-format:0\.00;">235253.89</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">50746</td><td style="mso-number-format:0\.00;">363084.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">44582</td><td style="mso-number-format:0\.00;">312437.26</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49710</td><td style="mso-number-format:0\.00;">356645.62</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49161</td><td style="mso-number-format:0\.00;">350396.06</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">54325</td><td style="mso-number-format:0\.00;">376598.91</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46084</td><td style="mso-number-format:0\.00;">321570.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">43030</td><td style="mso-number-format:0\.00;">294259.24</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">51139</td><td style="mso-number-format:0\.00;">335763.56</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65177</td><td style="mso-number-format:0\.00;">419634.86</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">39526</td><td style="mso-number-format:0\.00;">263359.09</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63452</td><td style="mso-number-format:0\.00;">411944.28</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">28985</td><td style="mso-number-format:0\.00;">185150.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">42173</td><td style="mso-number-format:0\.00;">271758.09</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">59234</td><td style="mso-number-format:0\.00;">366252.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65081</td><td style="mso-number-format:0\.00;">419539.51</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Nov 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49703</td><td style="mso-number-format:0\.00;">325656.53</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49177</td><td style="mso-number-format:0\.00;">327735.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46001</td><td style="mso-number-format:0\.00;">304866.93</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">61118</td><td style="mso-number-format:0\.00;">404324.11</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">53330</td><td style="mso-number-format:0\.00;">336024.47</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">58262</td><td style="mso-number-format:0\.00;">357105.66</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">74984</td><td style="mso-number-format:0\.00;">454854.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">57460</td><td style="mso-number-format:0\.00;">342875.01</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">82181</td><td style="mso-number-format:0\.00;">493520.55</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">79547</td><td style="mso-number-format:0\.00;">492540.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">59359</td><td style="mso-number-format:0\.00;">375341.07</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">74494</td><td style="mso-number-format:0\.00;">474292.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46851</td><td style="mso-number-format:0\.00;">291143.46</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">40501</td><td style="mso-number-format:0\.00;">253644.62</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">39958</td><td style="mso-number-format:0\.00;">251757.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">35627</td><td style="mso-number-format:0\.00;">229534.52</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">34323</td><td style="mso-number-format:0\.00;">224177.75</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">34379</td><td style="mso-number-format:0\.00;">226347.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">9192</td><td style="mso-number-format:0\.00;">61174.52</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">26294</td><td style="mso-number-format:0\.00;">174992.83</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">36103</td><td style="mso-number-format:0\.00;">235857.16</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">31815</td><td style="mso-number-format:0\.00;">205572.89</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Dec 2022</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">30214</td><td style="mso-number-format:0\.00;">197124.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr>
+	</tbody>
+
+</table></body></html>

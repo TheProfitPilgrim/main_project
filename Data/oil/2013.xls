@@ -1,0 +1,648 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="all" border="1" id="ctl00_cph_InnerContainerRight_C004_rgHDetailsDate_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Instrument Type</th><th scope="col">Date</th><th scope="col">Segment</th><th scope="col">Commodity</th><th scope="col">Traded Contract(Lots)</th><th scope="col">Total Value (Lacs)</th><th scope="col">Avg Daily Turnover (Lacs)</th><th scope="col">Premium Value (Lacs)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>FUTCOM</td><td>01 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">23999</td><td style="mso-number-format:0\.00;">120784.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">213344</td><td style="mso-number-format:0\.00;">1081123.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">170947</td><td style="mso-number-format:0\.00;">867275.70</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">223003</td><td style="mso-number-format:0\.00;">1135202.82</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">5898</td><td style="mso-number-format:0\.00;">30255.70</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">162944</td><td style="mso-number-format:0\.00;">836857.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">192118</td><td style="mso-number-format:0\.00;">989093.87</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">195195</td><td style="mso-number-format:0\.00;">999033.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">220354</td><td style="mso-number-format:0\.00;">1134291.88</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">199993</td><td style="mso-number-format:0\.00;">1023054.24</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">8034</td><td style="mso-number-format:0\.00;">41337.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">213814</td><td style="mso-number-format:0\.00;">1094953.77</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">175297</td><td style="mso-number-format:0\.00;">900156.45</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">199179</td><td style="mso-number-format:0\.00;">1023278.82</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">231641</td><td style="mso-number-format:0\.00;">1195183.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">243647</td><td style="mso-number-format:0\.00;">1257319.61</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">4123</td><td style="mso-number-format:0\.00;">21318.14</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">96001</td><td style="mso-number-format:0\.00;">495724.52</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">184327</td><td style="mso-number-format:0\.00;">954360.88</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">142515</td><td style="mso-number-format:0\.00;">740612.71</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">224226</td><td style="mso-number-format:0\.00;">1158395.55</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">125672</td><td style="mso-number-format:0\.00;">652026.23</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">214157</td><td style="mso-number-format:0\.00;">1114303.37</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">229778</td><td style="mso-number-format:0\.00;">1199711.14</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">182074</td><td style="mso-number-format:0\.00;">950426.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jan 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">161255</td><td style="mso-number-format:0\.00;">839311.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">232874</td><td style="mso-number-format:0\.00;">1207886.09</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">2869</td><td style="mso-number-format:0\.00;">14901.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">186821</td><td style="mso-number-format:0\.00;">963987.65</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">169501</td><td style="mso-number-format:0\.00;">872567.89</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">265097</td><td style="mso-number-format:0\.00;">1356912.60</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">274913</td><td style="mso-number-format:0\.00;">1418022.75</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">205927</td><td style="mso-number-format:0\.00;">1062485.32</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">3551</td><td style="mso-number-format:0\.00;">18322.71</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">256912</td><td style="mso-number-format:0\.00;">1330276.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">194715</td><td style="mso-number-format:0\.00;">1022457.65</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">188562</td><td style="mso-number-format:0\.00;">992105.57</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">166030</td><td style="mso-number-format:0\.00;">871368.12</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">233707</td><td style="mso-number-format:0\.00;">1221560.36</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">7012</td><td style="mso-number-format:0\.00;">36662.02</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">136323</td><td style="mso-number-format:0\.00;">709912.17</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">198615</td><td style="mso-number-format:0\.00;">1036384.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">299267</td><td style="mso-number-format:0\.00;">1564991.82</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">290307</td><td style="mso-number-format:0\.00;">1488820.27</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">184505</td><td style="mso-number-format:0\.00;">935742.75</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">4167</td><td style="mso-number-format:0\.00;">21173.87</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">229897</td><td style="mso-number-format:0\.00;">1164179.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">244331</td><td style="mso-number-format:0\.00;">1229714.11</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">211627</td><td style="mso-number-format:0\.00;">1061079.07</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Feb 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">211870</td><td style="mso-number-format:0\.00;">1071600.39</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">230781</td><td style="mso-number-format:0\.00;">1159472.32</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">5333</td><td style="mso-number-format:0\.00;">26807.25</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">205095</td><td style="mso-number-format:0\.00;">1022305.52</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">149837</td><td style="mso-number-format:0\.00;">745679.36</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">199675</td><td style="mso-number-format:0\.00;">992426.37</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">189558</td><td style="mso-number-format:0\.00;">943717.27</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">182245</td><td style="mso-number-format:0\.00;">908064.12</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">8356</td><td style="mso-number-format:0\.00;">41773.55</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">169697</td><td style="mso-number-format:0\.00;">846601.54</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">209297</td><td style="mso-number-format:0\.00;">1052839.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">228613</td><td style="mso-number-format:0\.00;">1154840.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">175812</td><td style="mso-number-format:0\.00;">885414.70</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">147805</td><td style="mso-number-format:0\.00;">747640.85</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">3484</td><td style="mso-number-format:0\.00;">17687.15</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">373697</td><td style="mso-number-format:0\.00;">1878785.07</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">282962</td><td style="mso-number-format:0\.00;">1443269.18</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">184816</td><td style="mso-number-format:0\.00;">940559.86</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">175546</td><td style="mso-number-format:0\.00;">891038.69</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">154131</td><td style="mso-number-format:0\.00;">782878.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">10814</td><td style="mso-number-format:0\.00;">55362.25</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">241231</td><td style="mso-number-format:0\.00;">1243423.85</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">199070</td><td style="mso-number-format:0\.00;">1036838.87</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">126075</td><td style="mso-number-format:0\.00;">661309.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">174756</td><td style="mso-number-format:0\.00;">922585.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Mar 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">80309</td><td style="mso-number-format:0\.00;">436356.10</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">202191</td><td style="mso-number-format:0\.00;">1069312.75</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">186635</td><td style="mso-number-format:0\.00;">985763.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">224764</td><td style="mso-number-format:0\.00;">1179283.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">322503</td><td style="mso-number-format:0\.00;">1661684.45</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">208548</td><td style="mso-number-format:0\.00;">1063216.15</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">12840</td><td style="mso-number-format:0\.00;">65781.29</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">178090</td><td style="mso-number-format:0\.00;">907864.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">201848</td><td style="mso-number-format:0\.00;">1031888.83</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">191545</td><td style="mso-number-format:0\.00;">981655.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">189600</td><td style="mso-number-format:0\.00;">969882.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">244188</td><td style="mso-number-format:0\.00;">1225191.38</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">5330</td><td style="mso-number-format:0\.00;">26557.12</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">265183</td><td style="mso-number-format:0\.00;">1288407.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">241212</td><td style="mso-number-format:0\.00;">1153834.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">256315</td><td style="mso-number-format:0\.00;">1214986.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">294666</td><td style="mso-number-format:0\.00;">1391753.73</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">110507</td><td style="mso-number-format:0\.00;">527130.15</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">2773</td><td style="mso-number-format:0\.00;">13251.20</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">203180</td><td style="mso-number-format:0\.00;">978861.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">212138</td><td style="mso-number-format:0\.00;">1023563.06</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">172332</td><td style="mso-number-format:0\.00;">846968.14</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">210446</td><td style="mso-number-format:0\.00;">1050733.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">205970</td><td style="mso-number-format:0\.00;">1043264.70</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">3536</td><td style="mso-number-format:0\.00;">17945.07</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">179040</td><td style="mso-number-format:0\.00;">909873.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Apr 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">203251</td><td style="mso-number-format:0\.00;">1028741.78</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">190174</td><td style="mso-number-format:0\.00;">930472.82</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">228729</td><td style="mso-number-format:0\.00;">1130856.11</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">215702</td><td style="mso-number-format:0\.00;">1103429.16</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">6064</td><td style="mso-number-format:0\.00;">31231.57</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">208285</td><td style="mso-number-format:0\.00;">1080645.70</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">191301</td><td style="mso-number-format:0\.00;">990147.35</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">178884</td><td style="mso-number-format:0\.00;">927841.36</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">147045</td><td style="mso-number-format:0\.00;">767033.29</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">213844</td><td style="mso-number-format:0\.00;">1111459.22</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">16859</td><td style="mso-number-format:0\.00;">88678.13</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">196641</td><td style="mso-number-format:0\.00;">1027481.32</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">166799</td><td style="mso-number-format:0\.00;">867871.52</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">279719</td><td style="mso-number-format:0\.00;">1434113.07</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">236206</td><td style="mso-number-format:0\.00;">1221459.05</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">246212</td><td style="mso-number-format:0\.00;">1295141.24</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">15413</td><td style="mso-number-format:0\.00;">81821.08</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">249792</td><td style="mso-number-format:0\.00;">1324354.49</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">167129</td><td style="mso-number-format:0\.00;">895516.68</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">231101</td><td style="mso-number-format:0\.00;">1227807.06</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">248062</td><td style="mso-number-format:0\.00;">1293564.65</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">187053</td><td style="mso-number-format:0\.00;">979573.58</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63068</td><td style="mso-number-format:0\.00;">329355.35</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">233244</td><td style="mso-number-format:0\.00;">1241068.12</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">266404</td><td style="mso-number-format:0\.00;">1416228.78</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">281090</td><td style="mso-number-format:0\.00;">1475765.02</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 May 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">194593</td><td style="mso-number-format:0\.00;">1027477.62</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">14756</td><td style="mso-number-format:0\.00;">77149.98</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">243030</td><td style="mso-number-format:0\.00;">1277443.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">260600</td><td style="mso-number-format:0\.00;">1376596.36</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">231657</td><td style="mso-number-format:0\.00;">1236593.35</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">201417</td><td style="mso-number-format:0\.00;">1085089.59</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">301667</td><td style="mso-number-format:0\.00;">1644833.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">13452</td><td style="mso-number-format:0\.00;">74329.54</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">210746</td><td style="mso-number-format:0\.00;">1171992.05</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">293919</td><td style="mso-number-format:0\.00;">1637513.68</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">277715</td><td style="mso-number-format:0\.00;">1537649.08</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">214210</td><td style="mso-number-format:0\.00;">1190924.88</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">231663</td><td style="mso-number-format:0\.00;">1299723.62</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">19275</td><td style="mso-number-format:0\.00;">109322.58</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">237031</td><td style="mso-number-format:0\.00;">1346489.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">264003</td><td style="mso-number-format:0\.00;">1519509.60</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">277512</td><td style="mso-number-format:0\.00;">1612162.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">315584</td><td style="mso-number-format:0\.00;">1823673.26</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">304644</td><td style="mso-number-format:0\.00;">1723071.51</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">7296</td><td style="mso-number-format:0\.00;">40958.66</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">305414</td><td style="mso-number-format:0\.00;">1717224.73</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">288056</td><td style="mso-number-format:0\.00;">1644675.45</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">365615</td><td style="mso-number-format:0\.00;">2101123.63</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">250126</td><td style="mso-number-format:0\.00;">1454069.94</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">218970</td><td style="mso-number-format:0\.00;">1272549.86</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jun 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">15086</td><td style="mso-number-format:0\.00;">87075.80</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">142393</td><td style="mso-number-format:0\.00;">823919.22</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">137518</td><td style="mso-number-format:0\.00;">808729.33</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">212038</td><td style="mso-number-format:0\.00;">1297638.34</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">62840</td><td style="mso-number-format:0\.00;">382588.55</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">189587</td><td style="mso-number-format:0\.00;">1175688.95</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">21548</td><td style="mso-number-format:0\.00;">137196.10</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">164212</td><td style="mso-number-format:0\.00;">1030971.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">134290</td><td style="mso-number-format:0\.00;">832956.06</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">152403</td><td style="mso-number-format:0\.00;">962133.32</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">169848</td><td style="mso-number-format:0\.00;">1075157.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">124908</td><td style="mso-number-format:0\.00;">787892.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">7157</td><td style="mso-number-format:0\.00;">45478.76</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">146789</td><td style="mso-number-format:0\.00;">928063.16</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">130788</td><td style="mso-number-format:0\.00;">821943.54</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">139986</td><td style="mso-number-format:0\.00;">879453.68</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">147644</td><td style="mso-number-format:0\.00;">943553.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">201111</td><td style="mso-number-format:0\.00;">1297480.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">5360</td><td style="mso-number-format:0\.00;">34434.91</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">123732</td><td style="mso-number-format:0\.00;">794272.76</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">128466</td><td style="mso-number-format:0\.00;">817190.93</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">150235</td><td style="mso-number-format:0\.00;">948753.36</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">169131</td><td style="mso-number-format:0\.00;">1051153.41</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">119925</td><td style="mso-number-format:0\.00;">744004.54</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">4124</td><td style="mso-number-format:0\.00;">25552.04</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">111244</td><td style="mso-number-format:0\.00;">693492.90</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">124716</td><td style="mso-number-format:0\.00;">784014.45</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jul 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">144429</td><td style="mso-number-format:0\.00;">915769.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">130964</td><td style="mso-number-format:0\.00;">848806.26</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">125643</td><td style="mso-number-format:0\.00;">824158.89</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">2466</td><td style="mso-number-format:0\.00;">16087.32</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">97621</td><td style="mso-number-format:0\.00;">636111.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">132616</td><td style="mso-number-format:0\.00;">866755.12</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">115366</td><td style="mso-number-format:0\.00;">743390.80</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">131890</td><td style="mso-number-format:0\.00;">832425.63</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">81134</td><td style="mso-number-format:0\.00;">514611.05</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">3575</td><td style="mso-number-format:0\.00;">22918.48</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">121681</td><td style="mso-number-format:0\.00;">785783.38</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">123571</td><td style="mso-number-format:0\.00;">805460.99</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">116712</td><td style="mso-number-format:0\.00;">760483.37</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">125221</td><td style="mso-number-format:0\.00;">834827.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">14620</td><td style="mso-number-format:0\.00;">98640.66</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">147870</td><td style="mso-number-format:0\.00;">995738.09</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">115695</td><td style="mso-number-format:0\.00;">780138.60</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">121190</td><td style="mso-number-format:0\.00;">816354.99</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">102036</td><td style="mso-number-format:0\.00;">690241.99</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">137306</td><td style="mso-number-format:0\.00;">931786.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">5836</td><td style="mso-number-format:0\.00;">39928.68</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">86366</td><td style="mso-number-format:0\.00;">592942.45</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">179423</td><td style="mso-number-format:0\.00;">1288878.73</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">187318</td><td style="mso-number-format:0\.00;">1418219.28</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">105385</td><td style="mso-number-format:0\.00;">780051.28</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">121849</td><td style="mso-number-format:0\.00;">880452.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Aug 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">3598</td><td style="mso-number-format:0\.00;">26029.12</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">69014</td><td style="mso-number-format:0\.00;">490427.57</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">108016</td><td style="mso-number-format:0\.00;">795552.77</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">101676</td><td style="mso-number-format:0\.00;">738345.24</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">91173</td><td style="mso-number-format:0\.00;">654288.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">81825</td><td style="mso-number-format:0\.00;">586309.93</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">1770</td><td style="mso-number-format:0\.00;">12682.11</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">39063</td><td style="mso-number-format:0\.00;">277900.73</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">83611</td><td style="mso-number-format:0\.00;">577178.88</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">72825</td><td style="mso-number-format:0\.00;">499002.88</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">87853</td><td style="mso-number-format:0\.00;">606163.29</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">67247</td><td style="mso-number-format:0\.00;">462381.60</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">5529</td><td style="mso-number-format:0\.00;">38206.96</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">77922</td><td style="mso-number-format:0\.00;">524654.28</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">67719</td><td style="mso-number-format:0\.00;">453686.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">87077</td><td style="mso-number-format:0\.00;">588029.92</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">82526</td><td style="mso-number-format:0\.00;">551328.98</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">66981</td><td style="mso-number-format:0\.00;">444083.26</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">66244</td><td style="mso-number-format:0\.00;">435286.82</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">69332</td><td style="mso-number-format:0\.00;">451810.39</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">73734</td><td style="mso-number-format:0\.00;">479563.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">58240</td><td style="mso-number-format:0\.00;">373596.53</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">84219</td><td style="mso-number-format:0\.00;">545797.71</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Sep 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">59814</td><td style="mso-number-format:0\.00;">383791.22</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">67649</td><td style="mso-number-format:0\.00;">433039.24</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">60466</td><td style="mso-number-format:0\.00;">389600.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">62367</td><td style="mso-number-format:0\.00;">398667.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">71111</td><td style="mso-number-format:0\.00;">453297.07</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64715</td><td style="mso-number-format:0\.00;">415805.70</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">76794</td><td style="mso-number-format:0\.00;">489308.62</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">92196</td><td style="mso-number-format:0\.00;">581469.83</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">84362</td><td style="mso-number-format:0\.00;">526272.82</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">72408</td><td style="mso-number-format:0\.00;">453388.53</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">72835</td><td style="mso-number-format:0\.00;">458250.40</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">46522</td><td style="mso-number-format:0\.00;">292410.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">85747</td><td style="mso-number-format:0\.00;">532304.44</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">73178</td><td style="mso-number-format:0\.00;">453708.50</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">79503</td><td style="mso-number-format:0\.00;">490957.46</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">75999</td><td style="mso-number-format:0\.00;">466373.11</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">80558</td><td style="mso-number-format:0\.00;">484196.42</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">78351</td><td style="mso-number-format:0\.00;">469532.54</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64204</td><td style="mso-number-format:0\.00;">387044.59</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64346</td><td style="mso-number-format:0\.00;">390153.27</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">56472</td><td style="mso-number-format:0\.00;">342756.59</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">61413</td><td style="mso-number-format:0\.00;">368173.27</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Oct 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64604</td><td style="mso-number-format:0\.00;">385347.58</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49342</td><td style="mso-number-format:0\.00;">294551.19</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">4227</td><td style="mso-number-format:0\.00;">24986.16</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">26778</td><td style="mso-number-format:0\.00;">157965.34</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">48152</td><td style="mso-number-format:0\.00;">281959.10</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">77895</td><td style="mso-number-format:0\.00;">460161.85</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">83683</td><td style="mso-number-format:0\.00;">498108.23</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">81884</td><td style="mso-number-format:0\.00;">488988.30</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">66226</td><td style="mso-number-format:0\.00;">399666.69</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">74080</td><td style="mso-number-format:0\.00;">449390.64</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">83276</td><td style="mso-number-format:0\.00;">496449.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">89516</td><td style="mso-number-format:0\.00;">531006.25</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">39780</td><td style="mso-number-format:0\.00;">235892.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">77386</td><td style="mso-number-format:0\.00;">452885.01</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">86377</td><td style="mso-number-format:0\.00;">503275.55</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">76927</td><td style="mso-number-format:0\.00;">455241.03</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">75908</td><td style="mso-number-format:0\.00;">454430.60</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">76214</td><td style="mso-number-format:0\.00;">458350.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">70279</td><td style="mso-number-format:0\.00;">413848.28</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">58154</td><td style="mso-number-format:0\.00;">344055.05</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">67945</td><td style="mso-number-format:0\.00;">395517.14</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">31093</td><td style="mso-number-format:0\.00;">180003.86</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65496</td><td style="mso-number-format:0\.00;">381808.75</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Nov 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">73810</td><td style="mso-number-format:0\.00;">430215.17</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">88246</td><td style="mso-number-format:0\.00;">523406.38</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">97132</td><td style="mso-number-format:0\.00;">587314.17</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">66388</td><td style="mso-number-format:0\.00;">400655.91</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">70645</td><td style="mso-number-format:0\.00;">424586.29</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">43876</td><td style="mso-number-format:0\.00;">261782.74</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">73096</td><td style="mso-number-format:0\.00;">439369.08</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64152</td><td style="mso-number-format:0\.00;">387202.69</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63539</td><td style="mso-number-format:0\.00;">385057.67</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63154</td><td style="mso-number-format:0\.00;">381058.34</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">65990</td><td style="mso-number-format:0\.00;">396452.31</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">63125</td><td style="mso-number-format:0\.00;">381004.13</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">74455</td><td style="mso-number-format:0\.00;">451754.30</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">64221</td><td style="mso-number-format:0\.00;">396883.97</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">58366</td><td style="mso-number-format:0\.00;">361104.38</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">41454</td><td style="mso-number-format:0\.00;">255454.46</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">32059</td><td style="mso-number-format:0\.00;">197403.06</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">35444</td><td style="mso-number-format:0\.00;">219526.28</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">49059</td><td style="mso-number-format:0\.00;">305563.43</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">51663</td><td style="mso-number-format:0\.00;">320927.87</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Dec 2013</td><td>ENERGY</td><td>CRUDEOIL</td><td style="mso-number-format:0;">41675</td><td style="mso-number-format:0\.00;">255631.00</td><td style="mso-number-format:0\.00;">0.00</td><td>-</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
